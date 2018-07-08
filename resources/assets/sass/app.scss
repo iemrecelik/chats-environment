@@ -1,0 +1,34 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// ionicons
+@import './plugins/ionicons-2.0.1/scss/ionicons';
+
+// v-tooltip
+@import './plugins/v-tooltip/v-tooltip.scss';
+
+//mixins
+@import 'mixins';
+
+// loading-btn
+@import './css/loading-btn/loading-btn.css';
+@import './css/loading-btn/loading.css';
+
+@import './css/main.css';
+@import './css/chats.css';
+@import './css/chat-dialog.css';
+@import './profile';
+@import './auth';
+@import '~jquery-ui/themes/base/all.css';
+
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}

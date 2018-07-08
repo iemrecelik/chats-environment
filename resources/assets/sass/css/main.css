@@ -1,0 +1,16 @@
+@import url('defined.css');
+
+body{
+}
+
+#app{
+	-webkit-box-shadow: 0px 7px 12px 0px rgba(179,179,179,1);
+	-moz-box-shadow: 0px 7px 12px 0px rgba(179,179,179,1);
+	box-shadow: 0px 7px 12px 0px rgba(179,179,179,1);
+}
+
+.main-top-bar{	
+	-webkit-box-shadow: 0px 1px 5px 0px rgba(122,122,122,1);
+	-moz-box-shadow: 0px 1px 5px 0px rgba(122,122,122,1);
+	box-shadow: 0px 1px 5px 0px rgba(122,122,122,1);
+}

@@ -1,0 +1,8 @@
+services: 
+    imageFilter:
+        path: system/Service/imageFilter.js
+        arguments: 
+            - '%gmFilter%' 
+    
+    ValidatorCtrl:
+        path: system/Service/ValidatorCtrl.js

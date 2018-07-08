@@ -1,0 +1,1 @@
+[Sun Jul 08 18:11:48.719246 2018] [core:error] [pid 20824] [client 176.33.114.149:58996] AH00037: Symbolic link not allowed or link target not accessible: /var/www/html/chatsEnv/public/storage, referer: http://37.148.210.93:8282/profile
